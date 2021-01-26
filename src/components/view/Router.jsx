@@ -7,7 +7,7 @@ export default function Router() {
   return (
     <Switch>
       <Route path="/jobs/:id" component={DetailPage} />
-      <Route path="/jobs" component={LandingPage} />
+      <Route path="/" component={LandingPage} />
     </Switch>
   );
 }
