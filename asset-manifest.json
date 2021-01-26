@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ItchyPitchy/js4-inlaemningsuppgift/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/main.92ff751b.chunk.js",
-    "main.js.map": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/main.92ff751b.chunk.js.map",
+    "main.js": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/main.9c63172d.chunk.js",
+    "main.js.map": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/main.9c63172d.chunk.js.map",
     "runtime-main.js": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/runtime-main.60535fed.js",
     "runtime-main.js.map": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/runtime-main.60535fed.js.map",
     "static/js/2.2604c93c.chunk.js": "/ItchyPitchy/js4-inlaemningsuppgift/static/js/2.2604c93c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.60535fed.js",
     "static/js/2.2604c93c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.92ff751b.chunk.js"
+    "static/js/main.9c63172d.chunk.js"
   ]
 }
